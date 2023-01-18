@@ -1,1 +1,1 @@
-# Java-AVL-Visulizer
+# Java-AVL-Visualizer
