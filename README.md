@@ -39,7 +39,7 @@ java BinaryTree
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to me at [email](mailto:elliotfayman@gmail.com)
+If you have any questions or feedback, please feel free to reach out to me at [elliotfayman@gmail.com](mailto:elliotfayman@gmail.com)
 
 
 
